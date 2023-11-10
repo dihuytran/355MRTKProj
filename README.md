@@ -1,9 +1,9 @@
 # 355MRTKProj
 MRTK project for 355
 
-Di-Huy Tran
-Samuel Dominguez 
-Antony Fuentes
+Di-Huy Tran,
+Samuel Dominguez,
+Antony Fuentes,
 Alexander Larios
 Ian Venti
 
